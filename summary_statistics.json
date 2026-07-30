@@ -1,0 +1,33 @@
+{
+  "n_crossrefs": 4594,
+  "distinct_snomed_ct_us": 4369,
+  "distinct_hpo_terms": 3437,
+  "cardinality": {
+    "narrow": {
+      "count": 1705,
+      "pct": 37.1
+    },
+    "broad": {
+      "count": 434,
+      "pct": 9.4
+    },
+    "exact": {
+      "count": 2455,
+      "pct": 53.4
+    }
+  },
+  "loss_modifier_count": 87,
+  "loss_modifier_pct": 1.9,
+  "loss_granularity_count": 2139,
+  "loss_granularity_pct": 46.6,
+  "chi2_exact_vs_modifierloss": {
+    "chi2": 1.18,
+    "p": 0.27717782337916275,
+    "table": {
+      "exact&modloss": 52,
+      "exact&nomod": 2403,
+      "nonexact&modloss": 35,
+      "nonexact&nomod": 2104
+    }
+  }
+}

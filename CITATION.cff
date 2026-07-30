@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the accompanying manuscript and this dataset."
+title: "Curated HPO-SNOMED CT cross-reference characterisation"
+type: dataset
+authors:
+  - family-names: Chen
+    given-names: Chao
+  - family-names: Chen
+    given-names: Zehui
+version: "1.0.0"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.XXXXXXX
+keywords:
+  - SNOMED CT
+  - Human Phenotype Ontology
+  - ontology mapping
+  - biomedical interoperability
